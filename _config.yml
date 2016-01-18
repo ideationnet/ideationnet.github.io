@@ -1,0 +1,14 @@
+
+# Site settings
+title: Ideation Networks
+email: info@ideationnetworks.com
+description: > # this means to ignore newlines until "baseurl:"
+  Consultancy for Drupal agencies, large Drupal deployments
+  and flagship Drupal websites since 2007.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.ideationnetworks.com" # the base hostname & protocol for your site
+twitter_username: mothersele
+github_username:  ideationnet
+
+# Build settings
+markdown: kramdown
